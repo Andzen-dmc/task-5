@@ -1,0 +1,16 @@
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\bin\Debug\net8.0\все 1-10.exe
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\bin\Debug\net8.0\все 1-10.deps.json
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\bin\Debug\net8.0\все 1-10.runtimeconfig.json
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\bin\Debug\net8.0\все 1-10.dll
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\bin\Debug\net8.0\все 1-10.pdb
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все_1_10.Form1.resources
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.csproj.GenerateResource.cache
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.AssemblyInfoInputs.cache
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.AssemblyInfo.cs
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.csproj.CoreCompileInputs.cache
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.dll
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\refint\все 1-10.dll
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.pdb
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\все 1-10.genruntimeconfig.cache
+C:\Users\Andzen\source\repos\все 1-10\все 1-10\obj\Debug\net8.0\ref\все 1-10.dll
